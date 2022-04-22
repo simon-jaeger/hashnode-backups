@@ -1,6 +1,6 @@
 ## Implementing 9-slice scaling with the Canvas API
 
-The 9-slice scaling technique allows resizing an image to a different aspect ratio without any ugly distortions. This is archived by slicing the original image into 9 rectangular parts and using those to construct the final resized image. Take a look at the following example. In the top right, you can see the result of 9-slice scaling, while the bottom right shows the distortion that would occur with normal scaling.
+The 9-slice scaling technique allows resizing an image to a different aspect ratio without any ugly distortions. This is achieved by slicing the original image into 9 rectangular parts and using those to construct the final resized image. Take a look at the following example. In the top right, you can see the result of 9-slice scaling, while the bottom right shows the distortion that would occur with normal scaling.
 
 ![9-slice-visualization.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650622856565/Fj1ivSTKM.png)
 
